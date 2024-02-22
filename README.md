@@ -7,7 +7,7 @@ A small tool that generates valid PDFs of a specified number of pages. Each page
 ## Setup
 
 ### Python
-Developed using Python 3.8.
+Developed using Python 3.12.
 
 ### Dependencies
 Dependencies are handled by [Poetry](https://python-poetry.org/docs/). To install dependencies, run `poetry install`.
